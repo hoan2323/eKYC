@@ -1,8 +1,9 @@
 🔐 eKYC System 
-![Screenshot 2025-07-05 151855](https://github.com/user-attachments/assets/3eddc94c-f27a-4df7-aa72-e6256a4544ad)
-![Thiết kế chưa có tên (1)](https://github.com/user-attachments/assets/c4ca7696-861d-43f1-ad0b-984728339790)
-![Thiết kế chưa có tên](https://github.com/user-attachments/assets/283755e5-8c9b-4254-9156-dc592e3df3ae)
 
+
+![Screenshot 2025-07-05 151855](https://github.com/user-attachments/assets/3eddc94c-f27a-4df7-aa72-e6256a4544ad)
+![Thiết kế chưa có tên (1)](https://github.com/user-attachments/assets/e2e179da-5268-4730-b52a-acc58b6190c1)
+![Thiết kế chưa có tên](https://github.com/user-attachments/assets/113045e7-29b6-448a-873f-9956a5b3772e)
 
 🧠 1. train_CNNmodel/ – Training the Face Anti-Spoofing Model
 
