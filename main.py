@@ -1,5 +1,5 @@
 from OCR_CCCD import extract_info_from_image
-from Face_reg import load_encodings
+from Face_Recognitio_and_Anti_Spoofing import Face_Recognition_and_Anti_Spoofing 
 import os
 
 
@@ -20,7 +20,7 @@ if __name__ == "__main__":
             result = extract_info_from_image(image_path)
             print("Đã cập nhật người mới vào hệ thống.")
         elif choice == '2':
-            result = load_encodings()
+            result = Face_Recognition_and_Anti_Spoofing()
     
         elif choice.lower() == 'q':
             print("Thoát chương trình.")
