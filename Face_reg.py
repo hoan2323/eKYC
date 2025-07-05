@@ -76,7 +76,7 @@ def load_encodings():
                             print(f"Không tìm thấy file info cho {name}")
 
                     cv2.rectangle(frame, (left, top), (right, bottom), (0, 255, 0), 2)
-                    info_to_scereen  =  f"{name} ({match_score:.2f})" 
+                    info_to_scereen  =  f"{name}" 
                     cv2.putText(frame, info_to_scereen, (left, top - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 0), 2)
 
             else:
